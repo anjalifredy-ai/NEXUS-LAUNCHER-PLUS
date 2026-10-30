@@ -41,6 +41,13 @@ jobs:
             "ndk;27.3.13750724" \
             "cmake;3.22.1"
 
+      - name: Ensure google-services.json exists
+        run: |
+          if [ ! -f app_pojavlauncher/google-services.json ]; then
+            echo 'ERROR: google-services.json missing'
+            exit 1
+          fi
+
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
