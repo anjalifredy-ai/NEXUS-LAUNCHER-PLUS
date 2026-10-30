@@ -1,6 +1,6 @@
-CS Launcher Plus
+NEXUS LAUNCHER PLUS
 
-CS Launcher Plus is a powerful Minecraft launcher focused on performance, customisation, and a smooth user experience.
+NEXUS LAUNCHER PLUS is a powerful Minecraft launcher focused on performance, customisation, and a smooth user experience.
 
 Features
 
@@ -27,7 +27,7 @@ The Control Customisation Settings Button has additional customisation options.
 
 Performance Improvements
 
-CS Launcher Plus includes major performance and optimisation improvements for a faster, smoother, and more responsive experience.
+NEXUS LAUNCHER PLUS includes major performance and optimisation improvements for a faster, smoother, and more responsive experience.
 
 Bug Fixes
 
@@ -35,19 +35,29 @@ A large number of bugs and stability issues have been fixed in this release.
 
 Download
 
-Download the latest version of CS Launcher Plus from GitHub Releases:
+Download the latest version of NEXUS LAUNCHER PLUS from GitHub Releases:
 
-"Download the Latest Release" (https://github.com/craftstudioteam/CS-LAUNCHER-PLUS/releases)
+[Download the Latest Release](https://github.com/anjalifredy-ai/NEXUS-LAUNCHER-PLUS/releases)
 
 Latest Release
 
 Check the Releases section for the latest version, changelog, and available downloads.
 
+Build APK (GitHub Actions)
+
+This repo includes a GitHub Actions workflow that builds a signed release APK.
+
+1. Go to **Actions** tab
+2. Select **Build APK**
+3. Click **Run workflow**
+
+The APK will be available as an artifact after the workflow finishes.
+
 Community
 
-Stay updated with CS Launcher Plus and follow the project for future updates, improvements, and new features.
+Stay updated with NEXUS LAUNCHER PLUS and follow the project for future updates, improvements, and new features.
 
 ---
 
-CS Launcher Plus
+NEXUS LAUNCHER PLUS  
 Faster. Smoother. More Customisable.
